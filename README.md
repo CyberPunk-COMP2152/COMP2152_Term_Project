@@ -8,9 +8,9 @@ Team _______
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Hooman Abedi | Header Exposure, Missing Security Headers, Insecure HTTP | header_exposure, missing_headers, http_insecure |
+| Ali Sazesh | API Exposure / Input Testing | ali_api_search |
+| Amir Ghaffari | Directory Exposure / Sensitive File Exposure | amir_backup_storage |
 
 ## Videos
 
