@@ -4,7 +4,6 @@
 The project focuses on identifying misconfigurations, insecure implementations, and information disclosure vulnerabilities.
 
 ## Team Name
-<!-- Replace with your team name -->
 CyberPunk
 
 ## Team Members
@@ -19,9 +18,9 @@ CyberPunk
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Hooman Abedi: https://youtube.com/watch?v=_______
-- Ali Sazesh: https://youtube.com/watch?v=_______
-- Amir Ghaffari: https://youtube.com/watch?v=_______
+- Hooman Abedi: https://youtu.be/vSX0pGalzhQ
+- Ali Sazesh: https://youtu.be/RxWxe6FhoOs
+- Amir Ghaffari: https://www.youtube.com/watch?v=6Ucrh2qT2jM
 
 ## Target
 
